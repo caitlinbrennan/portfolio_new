@@ -1,1 +1,1 @@
-# portfolio_new
+New portfolio made for all screen sizes. It includes all my work, information on me and my cv, and how to contact me. It is made with both light and dark mode in mind and is full responsive. Edit made
